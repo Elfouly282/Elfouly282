@@ -32,11 +32,11 @@
 <tr>
 <td width="60%" valign="top">
 
-Flutter Developer with **2+ years of hands-on experience** building scalable, production-ready mobile applications using **Dart & Flutter**.
+Flutter Developer with **2+ years of experience** building production-ready mobile applications using **Flutter and Dart**.
 
-Contributed to diverse projects spanning **educational platforms**, **service-based apps**, and **e-commerce solutions** — always focused on **clean, maintainable code** and **high-performance UX**.
+Recently expanded my expertise into **backend development** with **Node.js and Express.js**, building and maintaining production APIs.
 
-Currently seeking a challenging opportunity to grow professionally and help build innovative mobile products. 🚀
+Passionate about developing **end-to-end mobile solutions** with clean architecture, scalable backend services, and high-performance user experiences. 🚀
 
 </td>
 <td width="40%" valign="top">
@@ -48,6 +48,7 @@ location: Egypt 🇪🇬
 status: Open to work
 architecture: Clean Architecture
 state_mgmt: Bloc / Cubit
+backend: Node.js / Express.js
 ```
 
 </td>
@@ -58,7 +59,7 @@ state_mgmt: Bloc / Cubit
 
 ### ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,java,kotlin,git" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,nodejs,express,java,kotlin,git" />
 
 <img src="https://img.shields.io/badge/Bloc%2FCubit-1F2937?style=for-the-badge&logo=flutter&logoColor=00C9A7" />
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -79,24 +80,40 @@ state_mgmt: Bloc / Cubit
 </tr>
 <tr>
 <td>Flutter Developer</td>
-<td><b>Dokkan Agency</b> · Tanta, Egypt</td>
-<td>09/2025 – Present</td>
+<td><b>Storage-company</b> · On-site</td>
+<td>03/2026 – Present</td>
+</tr>
+<tr>
+<td>Flutter Mentor</td>
+<td><b>Huma-volve</b> · Remote, Part-time</td>
+<td>03/2026 – Present</td>
 </tr>
 <tr>
 <td>Flutter Developer</td>
-<td><b>Camp Coding</b> · Tanta, Egypt</td>
+<td><b>Dokkan Agency</b> · Tanta, Egypt (On-site)</td>
+<td>09/2025 – 03/2026</td>
+</tr>
+<tr>
+<td>Flutter Developer</td>
+<td><b>Camp Coding</b> · Tanta, Egypt (On-site)</td>
 <td>12/2024 – 06/2025</td>
 </tr>
 <tr>
-<td>Flutter Instructor</td>
-<td><b>CORE Academy</b> · Tanta, Egypt</td>
+<td>Instructor Flutter Developer</td>
+<td><b>CORE Academy</b> · Tanta, Egypt (On-site)</td>
 <td>11/2024 – 06/2025</td>
 </tr>
 </table>
 
-> 🛠️ Built and delivered **multiple production Flutter applications** with checkout, payments, shipping & ERP integration for **e-commerce**, **education**, and **service-based** industries — shipped on **Google Play** & **App Store**.
+> 📦 **Storage-company** — Shipped **Dorra** & **Dorra Driver** apps on Google Play.
 >
-> 🎓 Trained **15+ students** on Flutter & state management through **10+ hands-on workshops**, boosting engagement by **20%**.
+> 🧑‍🏫 **Huma-volve** — Trained and mentored **20+ students** on real-world Flutter projects, helping them build practical skills and become job-market ready.
+>
+> 🛍️ **Dokkan Agency** — Developed and deployed **6+ production e-commerce apps** on Google Play & App Store: Bayoumi Store, Eval Eltorky, 4Dream, Al Sherif Melamine, Silver Pure & Premium Mart.
+>
+> 🧹 **Camp Coding** — Built a multi-role service app supporting 3 user roles: **On Next Stay** (cleaning service + driver app) & **El Hagrasy** (maintenance products, Google Play).
+>
+> 🎓 **CORE Academy** — Trained **15+ students** in Flutter development & state management, designed structured curricula covering **10+ core topics**, and led hands-on workshops that boosted engagement by **20%**.
 
 <br/>
 
